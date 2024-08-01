@@ -1,0 +1,4 @@
+Fiz esse projeto a muito tempo seguindo o vídeo do Filipe Deschamps " https://youtu.be/fxm8cadCqbs?si=mw7dgafb4Bj9MqN2 "
+Por razões de não entender mais porra nenhuma do que fiz naquele codigo vou refazer do zero tudo tentando melhorar e deixar um codígo mais aceitavel.
+
+Isso aqui vai ser só para fazer algumas anotações do que está sendo feito e para entender meu raciocinio em cada parte.
